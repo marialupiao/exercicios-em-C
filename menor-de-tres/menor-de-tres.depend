@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658800109 source:c:\users\cliente\desktop\workspace\ws-c\exercicios-c\menor-de-tres\main.c
+	<stdio.h>
+	<stdlib.h>
+

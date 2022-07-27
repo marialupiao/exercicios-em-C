@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658877266 source:c:\users\cliente\desktop\workspace\ws-c\exercicios-c\aumento\main.c
+	<stdio.h>
+	<stdlib.h>
+

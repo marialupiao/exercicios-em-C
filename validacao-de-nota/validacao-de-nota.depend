@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658880348 source:c:\users\cliente\desktop\workspace\ws-c\exercicios-c\validacao-de-nota\main.c
+	<stdio.h>
+	<stdlib.h>
+

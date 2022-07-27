@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658876341 source:c:\users\cliente\desktop\workspace\ws-c\exercicios-c\lanchonete\main.c
+	<stdio.h>
+	<stdlib.h>
+

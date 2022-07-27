@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658877578 source:c:\users\cliente\desktop\workspace\ws-c\exercicios-c\tempo-de-jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+

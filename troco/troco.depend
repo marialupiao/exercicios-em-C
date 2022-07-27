@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658865597 source:c:\users\cliente\desktop\workspace\ws-c\exercicios-c\troco\main.c
+	<stdio.h>
+	<stdlib.h>
+
